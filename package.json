@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5",
+    "firebase": "^9.22.1"
+  },
+  "name": "hospital-patient-login-and-database",
+  "version": "1.0.0",
+  "description": "Hospital and patient login page and Firebase backend database.",
+  "private": true,
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "webpack": "^5.85.0",
+    "webpack-cli": "^5.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development"
+  },
+  "author": "Anhoa Le",
+  "license": "ISC"
+}
