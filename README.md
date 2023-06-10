@@ -14,3 +14,5 @@ After logging in, you'll be sent to a new page to enter some additional patient 
 After submitting, you'll be redirected to another page where you can view the submitted information.
 
 ## Screenshots
+
+<img src="https://github.com/AnthoaLe/Hospital-Patient-Login-and-Database/assets/46947396/9b6141c8-6eaa-4df0-b19d-c6531494db6f" width="75%" height="75%" alt="Example screenshot">
