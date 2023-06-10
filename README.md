@@ -5,7 +5,7 @@ Mock hospital login page and patient data form and viewer. Hosted online as an i
 ## Interactable Demo
 
 The project is made as an interactable demo. You can use the following link to access it:
-- [Hospital Patient Login and Database](https://anhoale-hospital-website.web.app/)
+## - [Hospital Patient Login and Database](https://anhoale-hospital-website.web.app/)
 
 You'll be prompted with a page asking you to log in. If you do not have an account you can switch to the register tab and create an account. The user information is sent by Javascript, then handled and stored by Firebase Authentication in the backend.
 
